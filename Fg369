@@ -1,0 +1,1 @@
+rippled submit '{"TransactionType": "AccountSet", "Account": "rDxoj2YtjDkn9nLdotpZcMzupJvmk3wNNF", "RegularKey": "r4iKhWgGGUH1VYLXcnGExre1LJEoVUK2Jx", "SetFlag": 0, "Fee": "10", "Sequence": 12345}'
